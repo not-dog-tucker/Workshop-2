@@ -7,6 +7,6 @@ def fibonacci(i):
         a = b
         b = c
         j+=1
-        print(str(c))
+    print(str(c))
     
 
